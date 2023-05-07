@@ -28,5 +28,3 @@ This is a project build using deep learning precisely CNN algorithm.
          * loss: SparseCategoricalCrossentrop
 * model evaluation
 * The accuarcy of the model is 0.95
-Classes= 10
-
